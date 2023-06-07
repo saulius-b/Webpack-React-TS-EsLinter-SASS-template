@@ -1,4 +1,4 @@
-# Webpack-React-TS-EsLinter-SASS-template
+# Webpack-React-TypeScript-EsLinter-SASS-template
 Webpack template with React, TypeScript, EsLinter, SASS modules
 
 ## How to run
